@@ -6,8 +6,8 @@ DJT.DJ | Számomra egyetlen dolog létezik,                                 | Eg
 ...    | bármelyik olyan utat, melynek van szíve.                         | Bármely út lehet az, ha szívemnek igaz.        |
 MAE.11 | Mi a mesterséged?                                                | Mi a mesterségem?                              |
 ...    | Hogy jó ember légy!                                              | Hogy belőlem jobb ember legyen.                |
-KHE.RÓ | Nagyon egyszerű: jól csak a szívével lát az ember.               | Negyon egyszerű: jól látni szívvel lehet,      |
+KHE.RÓ | Nagyon egyszerű: jól csak a szívével lát az ember.               | Nagyon egyszerű: jól látni szívvel lehet,      |
 ...    | Ami igazán lényeges, az a szemnek láthatatlan.                   | mert a szem nem látja a lényegeset.            |
-ANA.AA | Ez tiszta, élő víz.                                              | Tiszta, élő vizet iszom.                       |
+ANA.AA | Ez tiszta, élő víz.                                              |                                                |
 O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –             | Az igazi győzelem magunk legyőzése –           |
 ...    | gyorsan jöjjön el ez a nap!                                      | jöjjön el a napja végre!                       |
