@@ -3,6 +3,8 @@
 DJT.DJ | Számomra egyetlen dolog létezik,                                 |
 ...    | mégpedig hogy a szívvel rendelkező ösvényeket járjam;            |
 ...    | bármelyik olyan utat, melynek van szíve.                         |
+MAE.11 | Mi a mesterséged?                                                |
+...    | Hogy jó ember légy!                                              |
 KHE.RÓ | Nagyon egyszerű: jól csak a szívével lát az ember.               |
 ...    | Ami igazán lényeges, az a szemnek láthatatlan.                   |
 ANA.AA | Ez tiszta, élő víz.                                              |
