@@ -1,6 +1,7 @@
 *CÍM   |                                                     SZÍVLELET                                                     |
-*BKEZD |                                                                                                                   |
-*OLDAL |                         FORRÁS                                   |                     PATAK                      |
+       |-------------------------------------------------------------------------------------------------------------------|
+*OLDAL |                              FORRÁS                              |                     PATAK                      |
+*BKEZD |                                                                  |                                                |
 DJT.DJ | Számomra egyetlen dolog létezik,                                 | Egyetlen dolgon mozgom:                        |
 ...    | mégpedig hogy a szívvel rendelkező ösvényeket járjam;            | A szívvel rendelkező ösvényeket járom.         |
 ...    | bármelyik olyan utat, melynek van szíve.                         | Bármely út lehet az, ha szívem szerint igaz.   |
