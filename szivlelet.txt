@@ -3,7 +3,7 @@
 *OLDAL |                         FORRÁS                                   |                     PATAK                      |
 DJT.DJ | Számomra egyetlen dolog létezik,                                 | Egyetlen dolgon mozgom:                        |
 ...    | mégpedig hogy a szívvel rendelkező ösvényeket járjam;            | A szívvel rendelkező ösvényt járom.            |
-...    | bármelyik olyan utat, melynek van szíve.                         | Bármely út lehet az, ha szívemnek igaz.        |
+...    | bármelyik olyan utat, melynek van szíve.                         | Bármely út lehet az, ha szívem szerint igaz.   |
 MAE.11 | Mi a mesterséged?                                                | Mi a mesterségem?                              |
 ...    | Hogy jó ember légy!                                              | Hogy belőlem jobb ember legyen.                |
 KHE.RÓ | Nagyon egyszerű: jól csak a szívével lát az ember.               | Nagyon egyszerű: jól látni szívvel lehet,      |
