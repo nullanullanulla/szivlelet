@@ -1,4 +1,3 @@
-
 *CÍM   |                                                     SZÍVLELET                                                     |
        |-------------------------------------------------------------------------------------------------------------------|
 *OLDAL |                              FORRÁS                              |                     PATAK                      |
@@ -13,13 +12,13 @@ KHE.RÓ | Nagyon egyszerű: jól csak a szívével lát az ember.               
 *BKEZD |                                                                  |                                                |
 ANA.AA | Ez tiszta, élő víz.                                              | Ez tiszta, élő víz.                            |
 *BKEZD |                                                                  |                                                |
-ÚTK.OS | Az igazi győzelem a magunk fölött aratott győzelem –             | Az igazi győzelem magunk legyőzése –           |
+O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –             | Az igazi győzelem magunk legyőzése –           |
 ...    | gyorsan jöjjön el ez a nap!                                      | hát jöjjön el a napja végre!                   |
 *BKEZD |                                                                  |                                                |
 DJT~DJ | Második ellensége az elme világossága, mely ugyan eloszlatja     | Második ellenség az elme világossága:          |
 ...    | a félelmet, de ugyanakkor elvakít.                               | a félelmet elviszi de az embert elvakítja.     |
-DJT.DJ | Arra készteti az embert, hogy soha ne kételkedjen magában.       | Elhiheti, hogy sosem kell kételkedni.          |
-DJT.DJ | Bizonyosságot ad neki, hogy mindent megtehet, mivel tisztán      | Elhiteti, hogy az ember bármit megtehet,       |
+DJT.DJ | Arra készteti az embert, hogy soha ne kételkedjen magában.       | Benne önhittséget mérték nélkül ébreszt.       |
+DJT.DJ | Bizonyosságot ad neki, hogy mindent megtehet, mivel tisztán      | Az ember azt hiszi, hogy bármit megtehet,      |
 ...    | látja a dolgokat.                                                | sőt, helyesen másképpen nem is lehet.          |
 DJT~DJ | Ha az ember átadja magát ennek a csalárd hatalomnak,             | Ha valaki átadta magát e csalárd hatalomnak,   |
 ...    | akkor tanulása csak sötétben tapogatózás.                        | attól fogva sötétben bolyong csak.             |
