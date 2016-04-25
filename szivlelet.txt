@@ -13,7 +13,7 @@ KHE.RÓ | Nagyon egyszerű: jól csak a szívével lát az ember.               
 *BKEZD |                                                                  |                                                |
 ANA.AA | Ez tiszta, élő víz.                                              | Ez tiszta, élő víz.                            |
 *BKEZD |                                                                  |                                                |
-O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –             | Az igazi győzelem magunk legyőzése –           |
+ÚTK.OS | Az igazi győzelem a magunk fölött aratott győzelem –             | Az igazi győzelem magunk legyőzése –           |
 ...    | gyorsan jöjjön el ez a nap!                                      | hát jöjjön el a napja végre!                   |
 *BKEZD |                                                                  |                                                |
 DJT~DJ | Második ellensége az elme világossága, mely ugyan eloszlatja     | Második ellenség az elme világossága:          |
