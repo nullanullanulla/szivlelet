@@ -16,10 +16,10 @@ O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –           | 
 ...    | gyorsan jöjjön el ez a nap!                                    | hát jöjjön el a napja végre!                   |
 *BKEZD |                                                                |                                                |
 DJT~DJ | Második ellensége az elme világossága, mely ugyan eloszlatja   | Második ellenség az elme világossága:          |
-...    | a félelmet, de ugyanakkor elvakít.                             | a félelmet eloszlatja de az embert elvakítja.  |
+...    | a félelmet, de ugyanakkor elvakít.                             | a félelmet elűzi de az embert elvakítja.       |
 DJT.DJ | Arra készteti az embert, hogy soha ne kételkedjen magában.     | Önhittséggel betölti,                          |
 DJT.DJ | Bizonyosságot ad neki, hogy mindent megtehet,                  | bizonyosságot ad neki,                         |
-...    | mivel tisztán látja a dolgokat.                                | hogy tisztán lát és tettei előtt nincs korlát. |
+...    | mivel tisztán látja a dolgokat.                                | hogy tisztán lát és előtte nincs korlát.       |
 DJT~DJ | Ha az ember átadja magát ennek a csalárd hatalomnak,           | Ha valaki átadta magát e csalárd hatalomnak,   |
 ...    | akkor tanulása csak sötétben tapogatózás.                      | attól fogva sötétben bolyong csak.             |
 DJT.DJ | Sietni fog, amikor türelmesnek kéne lennie és fordítva.        | Nem érzi mi sürgős és mivel kéne várni.        |
