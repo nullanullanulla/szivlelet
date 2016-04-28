@@ -15,9 +15,9 @@ AAA.AA | Ez tiszta, élő víz.                                            | Ez 
 O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –           | Az igazi győzelem magunk legyőzése –           |
 ...    | gyorsan jöjjön el ez a nap!                                    | hát jöjjön el a napja végre!                   |
 *BKEZD |                                                                |                                                |
-MAE.07 | Az erkölcsi tökéletesség velejárója, hogy minden napot         | Úgy éljek le minden napot                      |
-...    | úgy élsz le – izgalom, ernyedtség, alakoskodás nélkül –,       | izgalom, ernyedtség, alakoskodás nélkül        |
-...    | mintha az volna az utolsó.                                     | mintha az az utolsó volna végül.               |
+MAE.07 | Az erkölcsi tökéletesség velejárója, hogy minden napot         | Minden napot úgy éljek le –                    |
+...    | úgy élsz le – izgalom, ernyedtség, alakoskodás nélkül –,       | könnyedén de cselekedve –                      |
+...    | mintha az volna az utolsó.                                     | mintha az a végső lenne.                       |
 *BKEZD |                                                                |                                                |
 DJT~DJ | Második ellensége az elme világossága, mely ugyan eloszlatja   | Második ellenség az elme világossága:          |
 ...    | a félelmet, de ugyanakkor elvakít.                             | a félelmet elűzi de az embert elvakítja.       |
