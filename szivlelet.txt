@@ -12,7 +12,7 @@ KHE.RÓ | Nagyon egyszerű: jól csak a szívével lát az ember.             | 
 A03.AA | Ha a szív és a lélek nincs nyitva,                             | Ha a szív és a lélek nincs nyitva,             |
 ...    | a szavak csak alig érezhető szellővé változnak...              | a szavak szellőként szállnak tova.             |
 *BKEZD |                                                                |                                                |
-AAA.AA | Ez tiszta, élő víz.                                            | Ez tiszta, élő víz.                            |
+A01.AA | Ez tiszta, élő víz.                                            | Ez tiszta, élő víz.                            |
 *BKEZD |                                                                |                                                |
 O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –           | Az igazi győzelem magunk legyőzése –           |
 ...    | gyorsan jöjjön el ez a nap!                                    | hát jöjjön el a napja végre!                   |
