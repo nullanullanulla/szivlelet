@@ -40,5 +40,5 @@ DJT~DJ | Ha az ember átadja magát ennek a csalárd hatalomnak,           | Ha 
 DJT.DJ | Sietni fog, amikor türelmesnek kéne lennie és fordítva.        | Nem érzi mi sürgős és mivel kéne várni.        |
 DJT~DJ | Végül képtelen lesz bármit is megtanulni.                      | Végül képtelen lesz bármit megtanulni.         |
 *BKEZD |                                                                |                                                |
-000.32 | Ha durva a visszavágott szó,                                   | Ha durva a visszavágott szó,                   |
-...    | te magad voltál előbb bántó.                                   | te magad voltál előbb bántó.                   |
+000.32 | Ha sértő a válasz                                              | Ha sértő a válasz                              |
+...    | te vagy aki bántasz.                                           | te vagy aki bántasz.                           |
