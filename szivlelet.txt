@@ -14,16 +14,16 @@ A03.AA | Ha a szív és a lélek nincs nyitva,                             | Ha 
 *BKEZD |                                                                |                                                |
 A01.AA | Ez tiszta, élő víz.                                            | Ez tiszta, élő víz.                            |
 *BKEZD |                                                                |                                                |
+M15.NÁ | Az embert feneyegető öt bűn                                    | Öt bűn fenyeget; elkerüljem ezeket:            |
+...    | a túl sok alvás, a félelem, a harag,                           | a félelem, a harag, a túl sok alvás,           |
+...    | az önfegyelem hiánya és a halogatás.                           | az önfegyelem hiánya és a halogatás.           |
+*BKEZD |                                                                |                                                |
 O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –           | Az igazi győzelem magunk legyőzése –           |
 ...    | gyorsan jöjjön el ez a nap!                                    | hát jöjjön el a napja végre!                   |
 T01.KL | Legyőzni önmagunkat, barátom,                                  | Legyőzni önmagunkat, barátom,                  |
 ...    | minden győzelem közül az első és legszebb,                     | a legszebb győzelem a világon.                 |
 ...    | viszont gyengének bizonyulni önmagunkkal szemben               | Gyengének bizonyulni magunk előtt              |
 ...    | minden vereség között a legrútabb és leghitványabb.            | a legrútabb minden vereség között.             |
-*BKEZD |                                                                |                                                |
-M15.NÁ | Az embert feneyegető öt bűn                                    | Öt bűn fenyeget; elkerüljem ezeket:            |
-...    | a túl sok alvás, a félelem, a harag,                           | a félelem, a harag, a túl sok alvás,           |
-...    | az önfegyelem hiánya és a halogatás.                           | az önfegyelem hiánya és a halogatás.           |
 *BKEZD |                                                                |                                                |
 IXT.DJ | A vadász azonban minden tettét elõre felméri;                  | A vadász a tetteit előre felméri               |
 ...    | és mivel bensõségesen ismeri halálát,                          | a halálát ismeri és mindig figyeli             |
