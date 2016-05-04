@@ -17,7 +17,7 @@ A01.AA | Ez tiszta, élő víz.                                            | Ez 
 O-SZEN | Az igazi győzelem a magunk fölött aratott győzelem –           | Az igazi győzelem magunk legyőzése –           |
 ...    | gyorsan jöjjön el ez a nap!                                    | hát jöjjön el a napja végre!                   |
 *BKEZD |                                                                |                                                |
-M15.NÁ | Az embert feneyegető öt bűn                                    | Öt bűn fenyeget, de elkerülöm ezeket:          |
+M15.NÁ | Az embert feneyegető öt bűn                                    | Öt bűn fenyeget; elkerüljem ezeket:            |
 ...    | a túl sok alvás, a félelem, a harag,                           | a félelem, a harag, a túl sok alvás,           |
 ...    | az önfegyelem hiánya és a halogatás.                           | az önfegyelem hiánya és a halogatás.           |
 *BKEZD |                                                                |                                                |
