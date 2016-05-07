@@ -52,3 +52,8 @@ DJT~DJ | Végül képtelen lesz bármit is megtanulni.                      | V�
 *BKEZD |                                                                |                                                |
 000.32 | Ha sértő a válasz                                              | Ha sértő a válasz                              |
 ...    | te vagy aki bántasz.                                           | te vagy aki bántasz.                           |
+*BKEZD |                                                                |                                                |
+000.32 | Ne X-szel szavazz!                                             | Ne X-szel szavazz!                             |
+...    | Szavazz levélben, minden évben;                                | Szavazz levélben, minden évben;                |
+...    | Írd meg az országnak, a városnak                               | Írd meg az országnak, a városnak               |
+...    | hogy mitől válna jobbá a holnap.                               | hogy mitől válna jobbá a holnap.               |
